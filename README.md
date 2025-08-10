@@ -69,7 +69,6 @@ For each segment, computed:
 
 ### Time & Frequency Domain Analysis
 [![Time Domain Analysis](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/EEG%20signal%20in%20time%20domain.png)](https://github.com/RSOmi05/Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/blob/d63b82b7da2cd3532b415342c824ce9044e912fd/EEG%20signal%20in%20time%20domain).png)
-
 <br>
 *Figure 1: EEG signal in time domain showing 190 seconds of brain electrical activity*
 
@@ -79,20 +78,25 @@ For each segment, computed:
 
 ### Noise Removal Results
 ![Noise Removal](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Original%20and%20filtered%20EEG%20signal%20time%20domain.png)
+<br>
 *Figure 3: Comparison of original vs filtered EEG signals*
 
 ![Frequency Comparison](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Original%20and%20filtered%20EEG%20signal%20frequency%20domain.png)
+<br>
 *Figure 4: PSD comparison showing effective high-frequency noise elimination*
 
 ### Segmentation Analysis
 ![Segmentation](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/5%20second%20segmentation%20analysis.png)
+<br>
 *Figure 5: (a) Mean amplitude per segment, (b) Average waveform across all segments*
 
 ### Hjorth Parameters Distribution
 ![Hjorth Parameters](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Hjorth%20parameters%20across%20segments.png)
+<br>
 *Figure 6: Activity, Mobility, and Complexity variations across 38 segments*
 
 ![Group Analysis](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Hjorth%20parameters%20group%20analysis.png)
+<br>
 *Figure 7: Hjorth parameters distribution by temporal groups*
 
 ## 🔍 Key Findings
