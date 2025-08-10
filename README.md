@@ -18,7 +18,6 @@
 - [Statistical Analysis](#-statistical-analysis)
 - [Future Work](#-future-work)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 
 ## 🧠 Overview
