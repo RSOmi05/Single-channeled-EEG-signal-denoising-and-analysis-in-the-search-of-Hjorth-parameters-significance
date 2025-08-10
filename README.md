@@ -123,7 +123,7 @@ For each segment, computed:
 
 ### Prerequisites
 ```bash
-pip install numpy pandas matplotlib scipy seaborn scikit-learn
+pip install numpy pandas matplotlib scipy seaborn scikit-learn math 
 ```
 
 ### Running the Analysis
