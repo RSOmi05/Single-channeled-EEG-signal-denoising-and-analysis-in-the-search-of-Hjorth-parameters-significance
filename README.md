@@ -68,7 +68,8 @@ For each segment, computed:
 ## 📈 Results
 
 ### Time & Frequency Domain Analysis
-[![Time Domain Analysis][(https://github.com/RSOmi05/Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/blob/3f47fdc95eed77fc471237bbc35c192eb5b4678c/EEG%20signal%20in%20time%20domain.png) ](https://github.com/RSOmi05/Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/blob/c40fad97ef9812dd21fc0a00faa7f7e908592366/EEG%20signal%20in%20time%20domain.png)
+[![Time Domain Analysis](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/EEG%20signal%20in%20time%20domain.png)](https://github.com/RSOmi05/Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/blob/dcc6d3eafa34933b850ff0fa8a91ee8e45faa53f/EEG%20Signal%20In%20Frequency%20Domain).png)
+<br>
 <br>
 *Figure 1: EEG signal in time domain showing 190 seconds of brain electrical activity*
 
