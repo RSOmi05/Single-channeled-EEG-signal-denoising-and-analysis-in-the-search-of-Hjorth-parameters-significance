@@ -172,7 +172,7 @@ python eeg_hjorth_analysis.ipynb
 - **Paired t-tests** for odd vs even segment comparison
 - **One-way ANOVA** for temporal group analysis
 - **Effect size calculation** (Cohen's eta-squared)
-- **Significance level**: α = 0.05
+- **Analysis of Significance level**: α = 0.05
 
 ### Interpretation
 The analysis reveals that EEG signals exhibit **temporal heterogeneity** with:
