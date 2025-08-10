@@ -66,7 +66,7 @@ For each segment, computed:
 ## 📈 Results
 
 ### Time & Frequency Domain Analysis
-![Signal Analysis](media/image1.jpeg)
+![Signal Analysis](EEG signal in time domain.png)
 *Figure 1: EEG signal in time domain showing 190 seconds of brain electrical activity*
 
 ![Frequency Domain](media/image2.jpeg)
