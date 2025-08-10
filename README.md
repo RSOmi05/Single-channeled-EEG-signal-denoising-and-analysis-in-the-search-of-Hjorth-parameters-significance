@@ -1,7 +1,5 @@
 # Single channeled EEG signal denoising and analysis in the search of Hjorth parameters significance
 
-# Single Channel EEG Hjorth Parameters Statistical Significance Analysis
-
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
