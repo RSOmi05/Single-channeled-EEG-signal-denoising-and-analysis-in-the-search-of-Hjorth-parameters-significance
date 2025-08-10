@@ -17,7 +17,6 @@
 - [Project Structure](#-project-structure)
 - [Statistical Analysis](#-statistical-analysis)
 - [Future Work](#-future-work)
-- [Contributing](#-contributing)
 - [Contact](#-contact)
 
 ## 🧠 Overview
@@ -188,16 +187,6 @@ The analysis reveals that EEG signals exhibit **temporal heterogeneity** with:
 - [ ] Real-time EEG processing implementation
 - [ ] Integration with clinical depression biomarker studies
 - [ ] Advanced artifact removal using ICA techniques
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📧 Contact
 
