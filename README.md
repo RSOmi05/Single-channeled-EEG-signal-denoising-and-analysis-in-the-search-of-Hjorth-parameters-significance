@@ -136,7 +136,7 @@ git clone https://github.com/RSOmi05/Single-channeled-EEG-signal-denoising-and-a
 cd Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance
 
 # Run the main analysis
-python eeg_hjorth_analysis.py
+python eeg_hjorth_analysis.ipynb
 ```
 
 ## 📦 Dependencies
