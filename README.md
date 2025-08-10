@@ -131,7 +131,7 @@ pip install numpy pandas matplotlib scipy seaborn scikit-learn
 ### Running the Analysis
 ```python
 # Clone the repository
-git clone https://github.com/yourusername/single-channel-eeg-hjorth-parameters-statistical-significance-analysis.git
+git clone https://github.com/RSOmi05/Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance.git
 
 # Navigate to project directory
 cd single-channel-eeg-hjorth-parameters-statistical-significance-analysis
