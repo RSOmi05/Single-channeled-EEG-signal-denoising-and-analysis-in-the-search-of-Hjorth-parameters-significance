@@ -1,5 +1,7 @@
 # Single channeled EEG signal denoising and analysis in the search of Hjorth parameters significance
 
+# Single Channel EEG Hjorth Parameters Statistical Significance Analysis
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
@@ -23,7 +25,7 @@
 
 This project presents a comprehensive analysis of single-channel EEG signals focusing on **Hjorth parameters** (Activity, Mobility, and Complexity) through statistical significance testing. The study investigates temporal dynamics and segment-wise variations in neurological signals using advanced signal processing techniques.
 
-## 🎯 Objectives
+### 🎯 Objectives
 - Analyze EEG signals in both time and frequency domains
 - Implement effective noise removal techniques
 - Perform temporal segmentation and statistical analysis
@@ -66,28 +68,28 @@ For each segment, computed:
 ## 📈 Results
 
 ### Time & Frequency Domain Analysis
-![Time Domain](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/ EEG signal in time domain.png)
+![Signal Analysis](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/EEG%20signal%20in%20time%20domain.png)
 *Figure 1: EEG signal in time domain showing 190 seconds of brain electrical activity*
 
-![Frequency Domain](media/image2.jpeg)
+![Frequency Domain](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/EEG%20signal%20in%20frequency%20domain.png)
 *Figure 2: Power spectral density revealing frequency characteristics*
 
 ### Noise Removal Results
-![Noise Removal](media/image3.jpeg)
+![Noise Removal](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Original%20and%20filtered%20EEG%20signal%20time%20domain.png)
 *Figure 3: Comparison of original vs filtered EEG signals*
 
-![Frequency Comparison](media/image4.jpeg)
+![Frequency Comparison](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Original%20and%20filtered%20EEG%20signal%20frequency%20domain.png)
 *Figure 4: PSD comparison showing effective high-frequency noise elimination*
 
 ### Segmentation Analysis
-![Segmentation](media/image5.jpeg)
+![Segmentation](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/5%20second%20segmentation%20analysis.png)
 *Figure 5: (a) Mean amplitude per segment, (b) Average waveform across all segments*
 
 ### Hjorth Parameters Distribution
-![Hjorth Parameters](media/image6.jpeg)
+![Hjorth Parameters](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Hjorth%20parameters%20across%20segments.png)
 *Figure 6: Activity, Mobility, and Complexity variations across 38 segments*
 
-![Group Analysis](media/image7.jpeg)
+![Group Analysis](Single-channeled-EEG-signal-denoising-and-analysis-in-the-search-of-Hjorth-parameters-significance/Hjorth%20parameters%20group%20analysis.png)
 *Figure 7: Hjorth parameters distribution by temporal groups*
 
 ## 🔍 Key Findings
